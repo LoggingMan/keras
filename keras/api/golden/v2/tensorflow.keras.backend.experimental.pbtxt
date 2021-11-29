@@ -1,0 +1,15 @@
+path: "tensorflow.keras.backend.experimental"
+tf_module {
+  member_method {
+    name: "disable_generator_for_rng"
+    argspec: "args=[], varargs=None, keywords=None, defaults=None"
+  }
+  member_method {
+    name: "enabled_generator_for_rng"
+    argspec: "args=[], varargs=None, keywords=None, defaults=None"
+  }
+  member_method {
+    name: "use_generator_for_rng"
+    argspec: "args=[], varargs=None, keywords=None, defaults=None"
+  }
+}
